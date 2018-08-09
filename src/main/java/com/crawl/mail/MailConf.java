@@ -26,7 +26,7 @@ public class MailConf {
 
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication() {
-				return new PasswordAuthentication("puluceno", "909abc");
+				return new PasswordAuthentication("puluceno", "none");
 			}
 		});
 
